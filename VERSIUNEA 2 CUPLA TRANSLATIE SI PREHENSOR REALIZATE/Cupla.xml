@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="12/10/23||00:24:54" using="Simscape Multibody Link Version 7.4" from="SolidWorks 31.1.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="Cupla" uid="Cupla" version="246">
+<AssemblyFile name="Cupla.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="piulita_cu_bucse.STEP-2" uid="piulita_cu_bucse.STEP-2" entityUid="piulita_cu_bucse.STEP" rigid="true">
+<Transform>
+<Rotation>0.91787542647886289 -0.3968686199061921 0 0.3968686199061921 0.91787542647886289 0 0 0 1</Rotation>
+<Translation>0.034649057079453538 -0.01114275920529321 0.074185234784574838</Translation>
+</Transform>
+<Instance name="piulita.stp_2.STEP-1" uid="piulita.stp_2.STEP-1" grounded="true" entityUid="piulita.stp_2.STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0068452606528279954 0.0052552056772569994 0.010541840382204001</Translation>
+</Transform>
+</Instance>
+<Instance name="bucse_2.STEP-1" uid="bucse_2.STEP-1" grounded="true" entityUid="bucse_2.STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.021603551499720999 0.0033950549248530013 -0.022458159617796</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="rulment.stp-4" uid="rulment.stp-4" entityUid="rulment.stp" rigid="true">
+<Transform>
+<Rotation>0.92372802134706822 0.38304900806323788 0 0.38304900806323777 -0.92372802134706822 0 0 0 -1</Rotation>
+<Translation>0.026280334313923973 -0.0090358042012325945 -0.23472898222078303</Translation>
+</Transform>
+<Instance name="R341074900_3.stp-2" uid="R341074900_3.stp-2" grounded="true" entityUid="R341074900_3.stp*:*Default">
+<Transform>
+<Rotation>0 1.1102230246251563e-16 -1 0 1 1.1102230246251563e-16 1 0 0</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="R341405000_3.stp-2" uid="R341405000_3.stp-2" grounded="true" entityUid="R341405000_3.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 -0.0060000000000000053</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="surub.stp-1" uid="surub.stp-1" entityUid="surub.stp*:*Default">
+<Transform>
+<Rotation>0.38110265989005271 -0.92453272663801722 0 0.92453272663801722 0.38110265989005271 0 0 0 0.99999999999999978</Rotation>
+<Translation>0.026280334313923702 -0.0090358042012334099 0.09727101777921679</Translation>
+</Transform>
+</Instance>
+<Instance name="element_de_legatura.stp-1" uid="element_de_legatura.stp-1" entityUid="element_de_legatura.stp" rigid="true">
+<Transform>
+<Rotation>1.1312405646254051e-16 -0.70710678118654802 0.70710678118654702 0 0.70710678118654713 0.70710678118654791 -1 -1.1316114827672821e-16 0</Rotation>
+<Translation>0.026280334313923955 -0.0090358042012326223 0.24027101777921692</Translation>
+</Transform>
+<Instance name="MJS-55CSK-ERD - 10-22 - 3.stp-1" uid="MJS-55CSK-ERD - 10-22 - 3.stp-1" grounded="true" entityUid="MJS-55CSK-ERD - 10-22 - 3.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 0.70710678118654813 0.70710678118654713 0 -0.70710678118654691 0.70710678118654791</Rotation>
+<Translation>0.053999999999999992 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="MJS-55CSK-ERD - 10-22 - 1.stp-1" uid="MJS-55CSK-ERD - 10-22 - 1.stp-1" grounded="true" entityUid="MJS-55CSK-ERD - 10-22 - 1.stp*:*Default">
+<Transform>
+<Rotation>-1 0 0 0 0 1 0 0.99999999999999978 0</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="MJS-55CSK-ERD - 2.stp-1" uid="MJS-55CSK-ERD - 2.stp-1" grounded="true" entityUid="MJS-55CSK-ERD - 2.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -0.70710678118654757 0.70710678118654757 0 -0.70710678118654746 -0.70710678118654746</Rotation>
+<Translation>0.01999999999999999 0 0</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="structura cupla-1" uid="structura cupla-1" grounded="true" entityUid="structura cupla*:*Default">
+<Transform>
+<Rotation>0.91787542647885934 0.39686861990620032 0 0.39686861990620032 -0.91787542647885934 0 0 0 -0.99999999999999989</Rotation>
+<Translation>0.020133275223746402 -0.034058110767708698 0.24567101777921688</Translation>
+</Transform>
+</Instance>
+<Instance name="rulment_bidirectional.stp-2" uid="rulment_bidirectional.stp-2" entityUid="rulment_bidirectional.stp" rigid="true">
+<Transform>
+<Rotation>0 0.93588552092542054 -0.35230426015328642 0 0.35230426015328642 0.93588552092542054 1 0 0</Rotation>
+<Translation>0.026280334313923948 -0.0090358042012326258 0.17627101777921694</Translation>
+</Transform>
+<Instance name="R341401506.stp-1" uid="R341401506.stp-1" grounded="true" entityUid="R341401506.stp*:*Default">
+<Transform>
+<Rotation>-1 0 0 0 1.0000000000000002 0 0 0 -1.0000000000000002</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="EC90fl-400W-V1-1" uid="EC90fl-400W-V1-1" grounded="true" entityUid="EC90fl-400W-V1*:*Default">
+<Transform>
+<Rotation>-2.3558873637727583e-16 0.8778746853725542 -0.47889042252068392 0 0.47889042252068403 0.8778746853725542 1 1.8435265047662822e-16 -1.5400226831499027e-16</Rotation>
+<Translation>0.026280334313923945 -0.0090358042012326292 0.24567101777921688</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Concentric name="Concentric1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>surub.stp-1</Uid>
+</InstancePath>
+<Position>0 0 0.016</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Cupla</Uid>
+</InstancePath>
+<Position>0.026280334313923941 -0.0090358042012326206 0.099521017779216889</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Distance1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Cupla</Uid>
+</InstancePath>
+<Position>0.026280334313923941 -0.0090358042012326206 0.097271017779216887</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>surub.stp-1</Uid>
+</InstancePath>
+<Position>0 0 0.0079999999999999932</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Concentric2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>surub.stp-1</Uid>
+</InstancePath>
+<Position>0 0 0.13124999999999995</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>element_de_legatura.stp-1</Uid>
+<Uid>MJS-55CSK-ERD - 10-22 - 3.stp-1</Uid>
+</InstancePath>
+<Position>0.050000000000000017 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>surub.stp-1</Uid>
+</InstancePath>
+<Position>0 0 0.12499999999999994</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>element_de_legatura.stp-1</Uid>
+<Uid>MJS-55CSK-ERD - 10-22 - 1.stp-1</Uid>
+</InstancePath>
+<Position>-0.017999999999999988 -0.016710921977260696 0.016710921977260408</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric4">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>element_de_legatura.stp-1</Uid>
+<Uid>MJS-55CSK-ERD - 10-22 - 1.stp-1</Uid>
+</InstancePath>
+<Position>0.050000000000000017 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>EC90fl-400W-V1-1</Uid>
+</InstancePath>
+<Position>-0.1209907814582 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident8">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>element_de_legatura.stp-1</Uid>
+<Uid>MJS-55CSK-ERD - 10-22 - 1.stp-1</Uid>
+</InstancePath>
+<Position>0 0.005000000000000001 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>EC90fl-400W-V1-1</Uid>
+</InstancePath>
+<Position>-0.0053999999999999881 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric5">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>surub.stp-1</Uid>
+</InstancePath>
+<Position>0 0 0.13124999999999995</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Cupla</Uid>
+</InstancePath>
+<Position>0.026280334313923945 -0.0090358042012326223 0.11902101777921689</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident11">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>surub.stp-1</Uid>
+</InstancePath>
+<Position>0 0 0.022999999999999993</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Cupla</Uid>
+</InstancePath>
+<Position>0.026280334313923945 -0.0090358042012326223 0.12027101777921689</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric7">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>surub.stp-1</Uid>
+</InstancePath>
+<Position>0 0 0.13124999999999995</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>rulment_bidirectional.stp-2</Uid>
+<Uid>R341401506.stp-1</Uid>
+</InstancePath>
+<Position>0.048999999999999988 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident13">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>surub.stp-1</Uid>
+</InstancePath>
+<Position>0 0 0.022999999999999993</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>rulment_bidirectional.stp-2</Uid>
+<Uid>R341401506.stp-1</Uid>
+</InstancePath>
+<Position>0.055999999999999994 -0.016525000000000005 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric8">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>surub.stp-1</Uid>
+</InstancePath>
+<Position>0 0 -0.33574999999999988</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Cupla</Uid>
+</InstancePath>
+<Position>0.026280334313923959 -0.0090358042012326154 -0.22212898222078314</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident14">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>surub.stp-1</Uid>
+</InstancePath>
+<Position>0 0 -0.31999999999999984</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Cupla</Uid>
+</InstancePath>
+<Position>0.026280334313923959 -0.0090358042012326154 -0.22272898222078313</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric9">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>surub.stp-1</Uid>
+</InstancePath>
+<Position>0 0 -0.33574999999999988</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Cupla</Uid>
+</InstancePath>
+<Position>0.026280334313923959 -0.0090358042012326154 -0.22212898222078314</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident15">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>surub.stp-1</Uid>
+</InstancePath>
+<Position>0 0 -0.31999999999999984</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Cupla</Uid>
+</InstancePath>
+<Position>0.026280334313923959 -0.0090358042012326154 -0.22272898222078313</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident17">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>EC90fl-400W-V1-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>structura cupla-1</Uid>
+</InstancePath>
+<Position>0.015572802757894142 -0.020527785453587744 0</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric10">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>rulment_bidirectional.stp-2</Uid>
+<Uid>R341401506.stp-1</Uid>
+</InstancePath>
+<Position>0.018199999999999994 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>structura cupla-1</Uid>
+</InstancePath>
+<Position>0.015572802757894142 -0.020527785453587744 0.068399999999999989</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric11">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>surub.stp-1</Uid>
+</InstancePath>
+<Position>0 0 0.016</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Cupla</Uid>
+</InstancePath>
+<Position>0.026280334313923515 -0.0090358042012326431 -0.17095844350353312</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric12">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>structura cupla-1</Uid>
+</InstancePath>
+<Position>0.10557280275789413 -0.020527785453587744 0.46739999999999993</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Cupla</Uid>
+</InstancePath>
+<Position>0.10888912269702083 0.026682371590325448 -0.21820944350353311</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident18">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>surub.stp-1</Uid>
+</InstancePath>
+<Position>0 0 -0.31999999999999984</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>rulment.stp-4</Uid>
+<Uid>R341405000_3.stp-2</Uid>
+</InstancePath>
+<Position>0 0 -0.0060000000000000053</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric13">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>surub.stp-1</Uid>
+</InstancePath>
+<Position>0 0 -0.33309999999999984</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>rulment.stp-4</Uid>
+<Uid>R341405000_3.stp-2</Uid>
+</InstancePath>
+<Position>0 0 -0.0065999999999999948</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric14">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>surub.stp-1</Uid>
+</InstancePath>
+<Position>0 0 0.016</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>piulita_cu_bucse.STEP-2</Uid>
+<Uid>piulita.stp_2.STEP-1</Uid>
+</InstancePath>
+<Position>0 0 0.014249999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric15">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>structura cupla-1</Uid>
+</InstancePath>
+<Position>-0.074427197242105864 -0.02052778545358775 0.46739999999999993</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>piulita_cu_bucse.STEP-2</Uid>
+<Uid>bucse_2.STEP-1</Uid>
+</InstancePath>
+<Position>-0.075241709153106892 0.0018601507524031932 -1.0000000000010001e-06</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+<Assembly name="piulita_cu_bucse.STEP" uid="piulita_cu_bucse.STEP" version="103">
+<ModelUnits mass="kilogram" length="inch"/>
+<AssemblyFile name="piulita_cu_bucse.STEP.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="rulment.stp" uid="rulment.stp" version="103">
+<ModelUnits mass="kilogram" length="inch"/>
+<AssemblyFile name="rulment.stp.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="element_de_legatura.stp" uid="element_de_legatura.stp" version="103">
+<ModelUnits mass="kilogram" length="inch"/>
+<AssemblyFile name="element_de_legatura.stp.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="rulment_bidirectional.stp" uid="rulment_bidirectional.stp" version="103">
+<ModelUnits mass="kilogram" length="inch"/>
+<AssemblyFile name="rulment_bidirectional.stp.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+</Assemblies>
+<Parts>
+<Part name="EC90fl-400W-V1" uid="EC90fl-400W-V1*:*Default" version="114">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="EC90fl-400W-V1.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.96399999999999997</Mass>
+<CenterOfMass>0.019026904108219771 -0.00044169468099904363 -1.8228585486519142e-07</CenterOfMass>
+<Inertia>0.00096355829388355334 0.00060852393806595307 0.00062972126532873714 -1.0183390309321265e-08 -7.5256378556680777e-10 -3.4499379080248143e-06</Inertia>
+</MassProperties>
+<GeometryFile name="EC90fl-400W-V1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.87450980392156863" g="0.94509803921568625" b="1" a="1"/>
+<Diffuse r="0.87450980392156863" g="0.94509803921568625" b="1" a="1"/>
+<Specular r="0.43725490196078431" g="0.47254901960784312" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="MJS-55CSK-ERD - 10-22 - 1.stp" uid="MJS-55CSK-ERD - 10-22 - 1.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="MJS-55CSK-ERD - 10-22 - 1.stp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.046908362379875113</Mass>
+<CenterOfMass>-0.011692267517109955 -0.00058806840949254574 -0.00021985148645295557</CenterOfMass>
+<Inertia>1.9209977885485971e-05 1.2779720554187327e-05 1.2456920122508864e-05 1.8293447539810055e-07 2.7639888208224348e-08 7.3784835924851961e-08</Inertia>
+</MassProperties>
+<GeometryFile name="MJS-55CSK-ERD - 10-22 - 1.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.68627450980392157" g="0.68627450980392157" b="0.68627450980392157" a="1"/>
+<Diffuse r="0.68627450980392157" g="0.68627450980392157" b="0.68627450980392157" a="1"/>
+<Specular r="0.34313725490196079" g="0.34313725490196079" b="0.34313725490196079" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="MJS-55CSK-ERD - 10-22 - 3.stp" uid="MJS-55CSK-ERD - 10-22 - 3.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="MJS-55CSK-ERD - 10-22 - 3.stp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.041420772452607647</Mass>
+<CenterOfMass>-0.012044180853547878 -0.00061466749565241587 -0.00034378594612762079</CenterOfMass>
+<Inertia>1.8746231592104729e-05 1.232679308229004e-05 1.2060833548649695e-05 1.6984395905523058e-07 3.944399523401019e-08 8.0795451274786208e-08</Inertia>
+</MassProperties>
+<GeometryFile name="MJS-55CSK-ERD - 10-22 - 3.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.68627450980392157" g="0.68627450980392157" b="0.68627450980392157" a="1"/>
+<Diffuse r="0.68627450980392157" g="0.68627450980392157" b="0.68627450980392157" a="1"/>
+<Specular r="0.34313725490196079" g="0.34313725490196079" b="0.34313725490196079" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="MJS-55CSK-ERD - 2.stp" uid="MJS-55CSK-ERD - 2.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="MJS-55CSK-ERD - 2.stp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.012818061798233474</Mass>
+<CenterOfMass>0.007000000000000001 0 0</CenterOfMass>
+<Inertia>4.9996607671407246e-06 2.7091920596081751e-06 2.7091920596081764e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="MJS-55CSK-ERD - 2.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="R341074900_3.stp" uid="R341074900_3.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="R341074900_3.stp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00010832354699407951</Mass>
+<CenterOfMass>0.00050000000000000001 -0.00053679312699937709 0</CenterOfMass>
+<Inertia>9.2218950736041913e-09 4.0081186493225639e-09 5.231830348780643e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="R341074900_3.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.35686274509803922" g="0.35686274509803922" b="0.35686274509803922" a="1"/>
+<Diffuse r="0.35686274509803922" g="0.35686274509803922" b="0.35686274509803922" a="1"/>
+<Specular r="0.17843137254901961" g="0.17843137254901961" b="0.17843137254901961" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="R341401506.stp" uid="R341401506.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="R341401506.stp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.15925191489486523</Mass>
+<CenterOfMass>0.028000104195721555 0.00013773899380859994 0.00013781928753209659</CenterOfMass>
+<Inertia>0.0001376699223034315 0.00011074402043374225 0.000110741951504512 -4.3221527621077642e-07 -1.2453095946958296e-10 -2.986444720987372e-10</Inertia>
+</MassProperties>
+<GeometryFile name="R341401506.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.82352941176470584" g="0.82352941176470584" b="1" a="1"/>
+<Diffuse r="0.82352941176470584" g="0.82352941176470584" b="1" a="1"/>
+<Specular r="0.41176470588235292" g="0.41176470588235292" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="R341405000_3.stp" uid="R341405000_3.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="R341405000_3.stp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0077657673704388894</Mass>
+<CenterOfMass>0 0 0</CenterOfMass>
+<Inertia>1.0819195101065369e-06 1.0819195101065371e-06 1.9518424983552087e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="R341405000_3.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="bucse_2.STEP" uid="bucse_2.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="bucse_2.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.65602832606680617</Mass>
+<CenterOfMass>0.014758290846892997 0.0018601507524032143 0.016500000000000001</CenterOfMass>
+<Inertia>0.00061595658167437216 0.002927776359337322 0.0034246637998305686 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="bucse_2.STEP_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="piulita.stp_2.STEP" uid="piulita.stp_2.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="piulita.stp_2.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.049684346349979508</Mass>
+<CenterOfMass>-0.000207200273018828 -8.6307278637296679e-05 -0.0059537679265466012</CenterOfMass>
+<Inertia>1.716375392638823e-05 1.9321128640296925e-05 1.8601275369612797e-05 5.0896515858426285e-08 1.2315066258823045e-07 1.0108541257337559e-07</Inertia>
+</MassProperties>
+<GeometryFile name="piulita.stp_2.STEP_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="structura cupla" uid="structura cupla*:*Default" version="266">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="structura cupla.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.631244228267656</Mass>
+<CenterOfMass>0.015572802757894133 -0.020527785453587747 0.23276934247002665</CenterOfMass>
+<Inertia>0.04757627463450332 0.054613487147429134 0.0092164851028853946 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="structura cupla_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="surub.stp" uid="surub.stp*:*Default" version="115">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="surub.stp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.20638305784514022</Mass>
+<CenterOfMass>-4.8720544698371972e-08 -3.1136000065789965e-05 -0.1017654159238008</CenterOfMass>
+<Inertia>0.0034274979824932515 0.003427558114635364 1.52615570654856e-05 1.2990269761390419e-06 -1.4362196082003241e-08 6.5453338425696992e-10</Inertia>
+</MassProperties>
+<GeometryFile name="surub.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
